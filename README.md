@@ -1,4 +1,4 @@
-Esta api esta pensada para devolver un json de puntos de españa relacionados a un estado de éstos así:
+Esta api esta pensada para devolver un json de puntos de españa relacionados a un estado del 0 al 9 así:
 
 {
   "results": [
